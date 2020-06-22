@@ -1,1 +1,19 @@
-{}
+{
+  "todos": [
+    {
+      "name": "Buy Milk",
+      "isComplete": false,
+      "id": 1
+    },
+    {
+      "name": "Buy Eggs",
+      "isComplete": false,
+      "id": 2
+    },
+    {
+      "name": "Buy Bread",
+      "isComplete": false,
+      "id": 3
+    }
+  ]
+}
